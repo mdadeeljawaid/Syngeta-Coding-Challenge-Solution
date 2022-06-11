@@ -1,0 +1,1 @@
+# Syngeta-Coding-Challenge-Solution
