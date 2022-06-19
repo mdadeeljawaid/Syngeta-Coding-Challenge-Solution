@@ -1,2 +1,1 @@
-# Syngeta-Coding-Challenge-Solution
-Design and develop a project for a simple Address-Book lookup application.
+# Design and develop a project for a simple Address-Book lookup application.
